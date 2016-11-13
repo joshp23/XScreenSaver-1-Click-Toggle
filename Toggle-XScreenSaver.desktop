@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/joshp/.00/toggle-xscreensaver.sh
+Name=Toggle XScreenSaver
+Comment=This willl check to see if the XScreenSaver is running or not, and change the state.
+Icon=/home/joshp/Pictures/icons/power_switch.png
