@@ -6,6 +6,7 @@ A simple script that toggles the XScreenSaver state on/off
 ## Requirements
 1. [XScreenSaver](https://www.jwz.org/xscreensaver/) up and running on your system
 2. [pidof](http://manpages.ubuntu.com/manpages/xenial/en/man8/pidof.8.html) - standard on most linux distros
+3. [libNotify](https://launchpad.net/ubuntu/precise/+package/libnotify-bin) - standard on many modern linux distros
 
 ## Installation and example use
 1. Download and extract the files of this repostiory to your home directory. Perhaps append the directory name with a dot in order to hide it from normal use.
