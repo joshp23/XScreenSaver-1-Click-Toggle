@@ -3,6 +3,9 @@ by Josh Panter [Unfettered](https://unfettered.net)
 
 A simple script that toggles the XScreenSaver state on/off
 
+## Rationale
+[Caffeine](https://launchpad.net/caffeine) has been broken for a while, and this provides a simple solution to toggling the state of the system screen saver. It cleanly turns it off if it is running, and simplly turns it on if it's not, while providing you a little notification abotu what it just did. There is no automation.
+
 ## Requirements
 1. [XScreenSaver](https://www.jwz.org/xscreensaver/) up and running on your system
 2. [pidof](http://manpages.ubuntu.com/manpages/xenial/en/man8/pidof.8.html) - standard on most linux distros
