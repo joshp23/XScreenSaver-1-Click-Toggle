@@ -18,6 +18,11 @@ A simple script that toggles the XScreenSaver state on/off
 4. Save Toggle-XScreenSaver.desktop to .local/share/applications/Toggle-XScreenSaver.desktop (perhaps put a copy on your desktop)
 5. Look for new app in your applications list, favorite it, profit.
 
+### Support Dev
+All of my published code is developed and maintained in spare time, if you would like to support development of this, or any of my published code, I have set up a Liberpay account for just this purpose. Thank you.
+
+<noscript><a href="https://liberapay.com/joshu42/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 ===========================
 
     Copyright (C) 2016 Josh Panter
